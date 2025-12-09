@@ -2,7 +2,7 @@ import streamlit as st
 import pandas
 import numpy
 import matplotlib.pyplot as plt
-from sklearn.preprocessiong import StandardScaler
+from sklearn.preprocessing import StandardScaler
 from sklearn.model_selection import train_test_split
 
 
