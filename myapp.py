@@ -11,4 +11,4 @@ st.subheader("Data Science with Usma Aktar")
 
 # To create sidebar
 st.sidebar.header("Upload CSV Data or Use Sample")
-st.sidebar.checkbox("Use example")
+st.sidebar.checkbox("Use example dataset")
