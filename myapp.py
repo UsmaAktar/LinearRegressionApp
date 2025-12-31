@@ -78,4 +78,3 @@ for feature in features:
       input_data[feature] = float(user_val)
   except ValueError:
     valid_input = False
-    
